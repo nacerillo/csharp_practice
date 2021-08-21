@@ -1,0 +1,16 @@
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\bin\Debug\net5.0\VariablePractice.exe
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\bin\Debug\net5.0\VariablePractice.deps.json
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\bin\Debug\net5.0\VariablePractice.runtimeconfig.json
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\bin\Debug\net5.0\VariablePractice.runtimeconfig.dev.json
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\bin\Debug\net5.0\VariablePractice.dll
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\bin\Debug\net5.0\ref\VariablePractice.dll
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\bin\Debug\net5.0\VariablePractice.pdb
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\obj\Debug\net5.0\VariablePractice.csproj.AssemblyReference.cache
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\obj\Debug\net5.0\VariablePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\obj\Debug\net5.0\VariablePractice.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\obj\Debug\net5.0\VariablePractice.AssemblyInfo.cs
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\obj\Debug\net5.0\VariablePractice.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\obj\Debug\net5.0\VariablePractice.dll
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\obj\Debug\net5.0\ref\VariablePractice.dll
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\obj\Debug\net5.0\VariablePractice.pdb
+C:\Users\nicho\Desktop\CSharp Master Class\VariablePractice\VariablePractice\obj\Debug\net5.0\VariablePractice.genruntimeconfig.cache
