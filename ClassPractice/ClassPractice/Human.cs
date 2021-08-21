@@ -15,7 +15,13 @@ namespace ClassPractice
         private int age;
         private string eyeColor;
 
-        //constructor = 
+        //default constructor
+        public Human()
+        {
+            Console.WriteLine("Constructor called. Object created");
+        }
+
+        //paramaterized constructor
         public Human(string firstName, string lastName, int age, string eyeColor)
         {
             this.firstName = firstName;
@@ -24,11 +30,26 @@ namespace ClassPractice
             this.eyeColor = eyeColor;
         }
 
+        public Human(string firstName, string lastName)
+        {
+            this.firstName = firstName;
+            this.lastName = lastName;
+            this.age = age;
+            this.eyeColor = eyeColor;
+        }
 
         //member method
         public void IntroduceMyself()
         {
-            Console.WriteLine("Hello there! my name is {0} {1}, and I am {2} years old", firstName, lastName, age);
+            if(age != 0)
+            {
+              Console.WriteLine("Hello there! my name is {0} {1}, and I am {2} years old", firstName, lastName, age);
+            }
+            else
+            {
+              Console.WriteLine("Hello there! my name is {0} {1}", firstName, lastName);
+            }
+            
         }
 
     }

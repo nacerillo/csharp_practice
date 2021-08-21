@@ -20,7 +20,7 @@ namespace ClassPractice
             //denis.firstName = "Denis";
             //denis.lastName = "Haufman";
 
-            Human nick = new Human("Nicholas", "Cerillo", 27, "brown");
+            Human nick = new Human("Nicholas", "Cerillo");
             //nick.firstName = "Nicholas";
             //nick.lastName = "Cerillo";
             denis.IntroduceMyself();
