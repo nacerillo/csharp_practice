@@ -10,8 +10,18 @@ namespace ClassPractice
     // object:
     // - also has properties
     // 
+
+    //ACCESS MODIFIERS
+    // private = only accessble inside of parent class
+    // protected = only accessible inside of parent and child class
+    // public = accessible to all 
+    // internal = only accessible inside its own assembly (Project)
+    // protected internal = accessible inside assembly or in children. 
+    // private protected = access inside the containg class, or in the children
+    // 
     class Program
     {
+
         static void Main(string[] args)
         {
             //in instance of a human class
