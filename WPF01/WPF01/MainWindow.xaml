@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPF01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF01"
+        mc:Ignorable="d"
+        Title="MYGUI" Height="350" Width="525">
+    <!-- <Grid>
+      <Button Height="50" Width="100">
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Foreground="Blue">Multi</TextBlock>
+                    <TextBlock Foreground="Red">Multi</TextBlock>
+                    <TextBlock Foreground="Green">Multi</TextBlock>
+                </WrapPanel>
+            </Button.Content>
+            <Button.FontSize>10</Button.FontSize>
+        </Button>
+    </Grid>-->
+</Window>
