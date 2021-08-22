@@ -1,0 +1,15 @@
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\bin\Debug\net5.0\Enums.exe
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\bin\Debug\net5.0\Enums.deps.json
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.json
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\bin\Debug\net5.0\Enums.runtimeconfig.dev.json
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\bin\Debug\net5.0\Enums.dll
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\bin\Debug\net5.0\ref\Enums.dll
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\bin\Debug\net5.0\Enums.pdb
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\obj\Debug\net5.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\obj\Debug\net5.0\Enums.AssemblyInfo.cs
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\obj\Debug\net5.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\obj\Debug\net5.0\Enums.dll
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\obj\Debug\net5.0\ref\Enums.dll
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\obj\Debug\net5.0\Enums.pdb
+C:\Users\nicho\Desktop\CSharp Master Class\CSharp\Enums\Enums\obj\Debug\net5.0\Enums.genruntimeconfig.cache
